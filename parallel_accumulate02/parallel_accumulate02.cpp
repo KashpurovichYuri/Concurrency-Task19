@@ -5,7 +5,7 @@
 #include <thread>
 #include <vector>
 
-#include "timer/timer.cpp"
+#include "../timer/timer.cpp"
 
 class Threads_Guard
 {

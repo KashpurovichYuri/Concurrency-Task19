@@ -7,7 +7,7 @@
 #include <thread>
 #include <future>
 
-#include "timer/timer.cpp"
+#include "../timer/timer.cpp"
 
 /*
 auto estimate_pi_seq_integral(const size_t N)
